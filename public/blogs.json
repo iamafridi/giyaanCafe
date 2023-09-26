@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/G7ytL8N/Tips-For-Making-A-Trip-To-The-Mountains-Memorable-Uncustomary-1.jpg",
+      "title": "The Great Adventure",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/Qf1KhpM/blogger-dp.jpg",
+      "posted_date": "2023-09-26",
+      "reading_time": 15,
+      "hashtag": ["adventure", "travel"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/0V2HpGb/chef-garnishing-meal-at-restaurant.jpg",
+      "title": "Cooking Delights",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/4Kp83Lf/images.jpg ",
+      "posted_date": "2023-09-25",
+      "reading_time": 10,
+      "hashtag": ["cooking", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/njCj5W3/software-developer-resume-cover-letter.jpg",
+      "title": "Tech Trends",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/FJCyyws/Zenitsu-Demon-Slayer-Guide.png",
+      "posted_date": "2023-09-24",
+      "reading_time": 12,
+      "hashtag": ["technology", "trends"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/f9HgDKN/medical-insurance-newborn.jpg",
+      "title": "Health and Wellness",
+      "author": "Sarah Adams",
+      "author_img": "https://i.ibb.co/LvHzG6p/demon-slayer-season-3-review-recap-6401c90f378c5.jpg",
+      "posted_date": "2023-09-23",
+      "reading_time": 8,
+      "hashtag": ["health", "wellness"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/LQWpy22/desktop-wallpaper-financial-financial-background-on-bat-finance-and-accounting-thumbnail.jpg",
+      "title": "Financial Insights",
+      "author": "Michael Wilson",
+      "author_img": " https://i.ibb.co/Gdkdq90/nezuko-kamado-demon-1242x2208-9319.jpg",
+      "posted_date": "2023-09-22",
+      "reading_time": 5,
+      "hashtag": ["finance", "insights"]
+    }
+  ]
+  
